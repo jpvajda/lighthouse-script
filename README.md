@@ -1,0 +1,2 @@
+# lighthouse-script
+lighthouse script
